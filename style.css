@@ -2,5 +2,5 @@
     object-position: 50% 50%;
 }
 .mySideBar{
-
+    position: sticky;
 }
