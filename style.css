@@ -3,6 +3,7 @@
 }
 .mysidebar{
     position: sticky;
+    top: auto;
 }
 *{
     font-style:oblique;
