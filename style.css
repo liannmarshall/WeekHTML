@@ -1,6 +1,9 @@
 .welcome{
     object-position: 50% 50%;
 }
-.mySideBar{
+.mysidebar{
     position: sticky;
+}
+*{
+    font-style:oblique;
 }
