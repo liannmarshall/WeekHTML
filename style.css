@@ -15,12 +15,16 @@
 .myol{
     display: inline-block;
     text-align: center;
-    color:black;
 }
 .myul{
     display: inline-block;
     text-align: center;
 }
-#h1{
-    color: red;
+h1{
+    color: blueviolet;
+    font-size: 45px;
+}
+h2{
+    color: teal;
+    font-size: 36px;
 }
