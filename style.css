@@ -6,10 +6,19 @@
     top: 20px;
 }
 *{
+    background-color: blueviolet;
     font-style:oblique;
     text-align: center;
     align-items: center;
 }
 .myol{
+    display: inline-block;
     text-align: center;
+}
+.myul{
+    display: inline-block;
+    text-align: center;
+}
+#h1{
+    color: red;
 }
