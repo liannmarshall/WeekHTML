@@ -8,4 +8,8 @@
 *{
     font-style:oblique;
     text-align: center;
+    align-items: center;
+}
+.myol{
+    text-align: center;
 }
